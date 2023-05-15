@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+}
+.img{
+    margin-top: 9rem;
+    padding: 3rem;
+    height: 500px;
+    width: 700px;
+}
+.prq{
+    margin-top: 3rem;
+    font-size: 4rem;
+    padding: 1rem;
+}
+.linha{
+   height: 5px;
+   width: 800px;
+   border-top: 1px solid black;
+}
+.layout{
+    margin-top: 3rem;
+}
+.resul{
+    margin-top: 40px;
+    border-color: aqua;
+}
